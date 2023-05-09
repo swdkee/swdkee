@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hi there, i am Sadık 👋
 
-<!--
-**swdkee/swdkee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### İletişim
 
-Here are some ideas to get you started:
+- [LinkedIn](https://www.linkedin.com/in/sad%C4%B1k-erdeger-61200b203/)
+- [İnstagram](https://www.instagram.com/sadkerdgr/)
+- [Twitter](https://twitter.com/swdk_ee)
+- [E-posta](mailto:sadik.erdeger@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Dil ve Araçlar
+
+- HTML/CSS
+- JavaScript
+- Python
+- C#
+- Git
+- Visual Studio Code
+
+
+### Hakkımda
+
+Merhaba ben ilerde ne meslek yapacağını bilmeyen bir bireyim ama ilgia alanlarım uygulam geliştirme ve siber güvenlik.
+
