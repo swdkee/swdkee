@@ -20,5 +20,5 @@
 
 ### Hakkımda
 
-Merhaba ben ilerde ne meslek yapacağını bilmeyen bir bireyim ama ilgia alanlarım uygulam geliştirme ve siber güvenlik.
+Backand developer and cybersecrty 
 
