@@ -5,7 +5,7 @@
 - [LinkedIn](https://www.linkedin.com/in/sad%C4%B1k-erdeger-61200b203/)
 - [İnstagram](https://www.instagram.com/sadkerdgr/)
 - [Twitter](https://twitter.com/swdk_ee)
-- [E-posta](<a href="mailto:example%40example.com">E-posta</a>
+- (<a href="mailto:sadik.erdeger%40gmail.com">E-posta</a>
 )
 
 ### Dil ve Araçlar
